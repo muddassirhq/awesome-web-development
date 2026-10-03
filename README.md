@@ -256,6 +256,7 @@ In order to read the cheat sheets and reference them, use the project official w
   - pico.js: A face-detection library in 200 lines of JavaScript. approximately 200 lines of pure JavaScript;real-time detection demo available at <https://nenadmarkus.com/p/picojs-intro/demo/>
   - lploc.js: A tiny JavaScript library for real-time localization of eye pupils.
 - ![](https://img.shields.io/github/stars/rayepps/radash?style=social) [radash](https://github.com/rayepps/radash) - unctional utility library - modern, simple, typed, powerful
+- [open-in-native-browser](https://github.com/muddassirhq/open-in-native-browser) - Detects when a visitor is trapped inside Instagram's or Facebook's in-app browser and helps them escape to their device's native browser, with an automatic deep-link handoff and a dismissible fallback banner. Zero dependencies, works with any framework or plain HTML.
 
 ## Designer
 
